@@ -70,7 +70,8 @@ void start(){
         default: {
             printf("\nSorry can't help :(");
             break;
-          }  }
+          }  
+        }
     }
     
 }

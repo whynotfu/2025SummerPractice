@@ -9,8 +9,8 @@ _Focus: language basics, data types, input/output_
 
 | Project | Description | Key Technologies | Status | Statrt Date |
 |--------|-------------|------------------|--------|------|
-| CLI Calculator | Perform arithmetic operations | `stdio.h`, `switch-case` | ✅  | 28.06.2025 |
-| Mini Text Editor | Input and edit strings | Buffers, strings, `fgets()` | ☐ | |
+|  CLI Calculator | Perform arithmetic operations | `stdio.h`, `switch-case` | ✅  | 28.06.2025 |
+| Mini Text Editor | Input and edit strings | Buffers, strings, `fgets()` | ☐ | 29.06.2025 |
 | Student Manager | Store and search student records | `struct`, arrays, sorting | ☐ | |
 | File Logger | Write logs to a file | `FILE*`, `fprintf()`, `fopen()` | ☐ | |
 | Unit Converter | Convert temperatures, length, etc. | `float`, `scanf()` | ☐ | |
